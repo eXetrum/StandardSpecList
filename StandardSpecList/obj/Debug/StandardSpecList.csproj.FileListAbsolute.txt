@@ -1,0 +1,13 @@
+D:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\bin\Debug\StandardSpecList.exe.config
+D:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\bin\Debug\StandardSpecList.exe
+D:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\bin\Debug\StandardSpecList.pdb
+D:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\bin\Debug\HtmlAgilityPack.dll
+D:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\bin\Debug\HtmlAgilityPack.pdb
+D:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\bin\Debug\HtmlAgilityPack.xml
+D:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\obj\Debug\StandardSpecList.mainForm.resources
+D:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\obj\Debug\StandardSpecList.Properties.Resources.resources
+D:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\obj\Debug\StandardSpecList.csproj.GenerateResource.Cache
+D:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\obj\Debug\StandardSpecList.exe
+D:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\obj\Debug\StandardSpecList.pdb
+D:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\obj\Debug\StandardSpecList.csprojResolveAssemblyReference.cache
+D:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\obj\Debug\StandardSpecList.ProgressForm.resources

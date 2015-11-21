@@ -1,0 +1,20 @@
+4:27:17 21 ноября 2015 г.
+=======[error]=======
+[GET start page OK]
+[cookie]:ASP.NET_SessionId=jgfvoywupkwdp1gugdhqg43d; path=/; HttpOnly
+[GET search page OK]
+[search page response uri]:http://protect.gost.ru/default.aspx?search=error
+[start parse search link]
+search link not found or multiple entry's
+
+-------------------------------
+4:27:19 21 ноября 2015 г.
+=======[ГОСТ]=======
+[GET start page OK]
+[cookie]:ASP.NET_SessionId=t54sldiydma13poji3hq3rsm; path=/; HttpOnly
+[GET search page OK]
+[search page response uri]:http://protect.gost.ru/default.aspx?search=ГОСТ
+[start parse search link]
+search link not found or multiple entry's
+
+-------------------------------

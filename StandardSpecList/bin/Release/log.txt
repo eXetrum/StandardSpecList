@@ -1,0 +1,33 @@
+16:50:50 21 ноября 2015 г.
+=======[error]=======
+[GET start page OK]
+[cookie]:ASP.NET_SessionId=rwmkqd4sl3ua4pyaaoyclap0; path=/; HttpOnly
+[GET search page OK]
+[search page response uri]:http://protect.gost.ru/default.aspx?search=error
+[start parse search link]
+[Произошла ошибка]: search link not found or multiple entry's
+
+[Стек]:    в StandardSpecList.mainForm.ProcessSpec(Object o) в d:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\mainForm.cs:строка 169
+
+-------------------------------
+16:50:51 21 ноября 2015 г.
+=======[ГОСТ]=======
+[GET start page OK]
+[cookie]:ASP.NET_SessionId=hjyavwi5neimxr2ezo2stlxq; path=/; HttpOnly
+[GET search page OK]
+[search page response uri]:http://protect.gost.ru/default.aspx?search=ГОСТ
+[start parse search link]
+[Произошла ошибка]: search link not found or multiple entry's
+
+[Стек]:    в StandardSpecList.mainForm.ProcessSpec(Object o) в d:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\mainForm.cs:строка 169
+
+-------------------------------
+rror]=======
+[GET start page OK]
+[cookie]:ASP.NET_SessionId=qg4eq4vdqmedwfab5kxuztv5; path=/; HttpOnly
+[GET search page OK]
+[search page response uri]:http://protect.gost.ru/default.aspx?search=error
+[start parse search link]
+search link not found or multiple entry's
+
+-------------------------------

@@ -1,0 +1,12 @@
+D:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\bin\Release\StandardSpecList.exe.config
+D:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\bin\Release\StandardSpecList.exe
+D:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\bin\Release\StandardSpecList.pdb
+D:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\bin\Release\HtmlAgilityPack.dll
+D:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\bin\Release\HtmlAgilityPack.pdb
+D:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\bin\Release\HtmlAgilityPack.xml
+D:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\obj\Release\StandardSpecList.mainForm.resources
+D:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\obj\Release\StandardSpecList.Properties.Resources.resources
+D:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\obj\Release\StandardSpecList.csproj.GenerateResource.Cache
+D:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\obj\Release\StandardSpecList.exe
+D:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\obj\Release\StandardSpecList.pdb
+D:\MS Visual Studio\Projects\C#\StandardSpecList\StandardSpecList\obj\Release\StandardSpecList.csprojResolveAssemblyReference.cache
